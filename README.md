@@ -3,7 +3,7 @@ Track your expenses. Take control of your finances. All from your phone.
 A sleek, minimal, and fast React Native app to help you stay on top of your spending — anytime, anywhere.
 
 
-📱 Features
+📱 # Features
 ✅ Add income and expenses in seconds
 
 📊 Visualize your spending with clean summaries
@@ -19,7 +19,7 @@ Expo – for rapid development and testing
 React Navigation – smooth screen transitions
 
 
-🚀 Getting Started
+🚀 # Getting Started
 Clone the repository:
 
 git clone https://github.com/yourusername/MoneyTrackerReactNative.git
@@ -27,13 +27,13 @@ cd MoneyTrackerReactNative
 Install dependencies:
 
 npm install
-# or
+or
 yarn install
 
 Run it locally with Expo:
 
 npm start
-# or
+or
 yarn start
 
 Scan the QR code in the Expo Go app to preview it on your device!
