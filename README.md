@@ -16,7 +16,6 @@ A sleek, minimal, and fast React Native app to help you stay on top of your spen
 
 - **React Native** – cross-platform mobile framework
 - **Expo** – for rapid development and testing
-- **React Navigation** – smooth screen transitions
 
 ---
 
