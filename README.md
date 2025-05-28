@@ -10,6 +10,9 @@ A sleek, minimal, and fast React Native app to help you stay on top of your spen
 - ✅ Add expenses in seconds
 - 📊 Visualize your spending with clean summaries
 
+<img width="347" alt="dashboard - add expense" src="https://github.com/user-attachments/assets/3dd9f59b-60d2-4ebc-893b-c2c19436e4bc" />
+<img width="347" alt="dashboard - show all expenses" src="https://github.com/user-attachments/assets/14045d37-6d2f-46e2-93b3-3614b91bdbbf" />
+
 ---
 
 ## 🛠️ Tech Stack
