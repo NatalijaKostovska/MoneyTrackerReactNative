@@ -1,4 +1,4 @@
-# 💰 MoneyTrackerReactNative
+# 💰 Money Tracker App with React Native
 
 **Track your expenses. Take control of your finances. All from your phone.**  
 A sleek, minimal, and fast React Native app to help you stay on top of your spending — anytime, anywhere.
